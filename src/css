@@ -1,9 +1,27 @@
 src/
+  assets/
+    images/
+      logo.png
+      ...
+    styles/
+      global.css
+      variables.css
+      ...
   components/
+    Button.js
     Navbar.js
-    PaymentCard.js
+    ...
   pages/
-    Customer/
-      CustomerLogin.js
+    Home.js
+    Wallet.js
+    Exchange.js
+    Payment.js
+    Settings.js
+    ...
+  utils/
+    api.js
+    helpers.js
+    ...
   App.js
   index.js
+  ...

@@ -1,0 +1,25 @@
+.settings-container {
+    display: flex;
+}
+
+.settings-sidebar {
+    width: 200px;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.settings-sidebar a {
+    display: block;
+    margin-bottom: 10px;
+    color: #000;
+    text-decoration: none;
+}
+
+.settings-sidebar .active-link {
+    font-weight: bold;
+}
+
+.settings-content {
+    flex-grow: 1;
+    padding: 20px;
+}

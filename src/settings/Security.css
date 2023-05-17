@@ -1,0 +1,39 @@
+.security-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.security-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.security-form {
+    display: grid;
+    gap: 20px;
+}
+
+.security-label {
+    font-weight: bold;
+}
+
+.security-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+}
+
+.security-submit-btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.security-submit-btn:hover {
+    background-color: #0056b3;
+}

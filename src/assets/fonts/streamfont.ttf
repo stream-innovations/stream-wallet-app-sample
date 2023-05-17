@@ -1,0 +1,4 @@
+import '../assets/fonts/streamfont.ttf';
+
+// Usage in the CSS
+font-family: 'streamfont', sans-serif;
